@@ -28,6 +28,7 @@ h6 {
 .lead {
     font-size: 18px;
     font-weight: 400;
+    text-align: justify;
 }
 
 .intro-header {
@@ -35,7 +36,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/anilab_logo.png) no-repeat center center;
+    background: url(../img/logo-high.jpg) no-repeat center center;
     background-size: 75%;
 }
 
