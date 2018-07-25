@@ -1,0 +1,10 @@
+#Passo a Passo para fazer o upload pelo cygwin
+cd '/cygdrive/c/Documents and Settings/Tito-PC/Documents/GitHub/anilab-web'
+# Rodar ate pedir senha
+bash sync.sh
+
+# Se o site der problema, na pasta rode
+chmod 755 -R * 
+bash sync.sh
+
+
