@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Disallow: /_staging_area_/
-
