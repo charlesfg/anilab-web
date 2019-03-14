@@ -8,3 +8,4 @@ chmod 755 -R *
 bash sync.sh
 
 
+ftp@Anim4l1404
